@@ -1,4 +1,4 @@
-﻿namespace C__Hw_6._0
+﻿namespace C__Hw_6._1
 {
     internal class Program
     {
